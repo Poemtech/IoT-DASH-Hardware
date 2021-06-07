@@ -9,9 +9,9 @@ Tell us what you'll build with these designs. If you require support for integra
 
 ### Additional Dash Information
 
- - [Dash Product Page](https://hologram.io/dash/)
- - [Dash Datasheet](https://hologram.io/docs/reference/dash/datasheet/)
- - [Pre v1.2 Dash Repo](https://github.com/hologram-io/hologram-hardware)
+ - [Dash Product Page](https://poemtechnology.com/shop/poem-dash-copy/)
+ - [Dash Datasheet](https://poemtechnology.com/?attachment_id=4767)
+ - [IoTa Repo](https://github.com/Poemtech/IoT-DASH-Hardware)
 
 ### Additional Freescale Documentation
 
