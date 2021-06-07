@@ -5,7 +5,7 @@ The POEM Technology Dash/IoTa are Open-Sourced Cellular MCU Developer Boards uti
 Certified by the Open Source Hardware Association - [Certificate US000082](http://certificate.oshwa.org/certification-directory/).
 Recertification of the IoTa as a new design is pending.
 
-We're excited to see what you'll build with these designs. If you require support for integrating these designs into your project, you can reach out to Hologram Solutions Engineering at sales@hologram.io to learn about Hologram design review services or hear about our engineering design partners.
+Tell us what you'll build with these designs. If you require support for integrating these designs into your project, you can reach out to POEM Technology at sales@poemtechnology.com to inquire about design review services or engineering design partnerships.
 
 ### Additional Dash Information
 
