@@ -1,6 +1,6 @@
-# Hologram Dash Hardware Repository
+# POEM TEchnology IoTa/DASH Hardware Repository
 
-The Hologram Dash is an Open-Sourced Cellular MCU Developer Board utilizing the [ublox SARA](https://www.u-blox.com/en/product-search/field_product_form/sara-111) family of modems, [ARM Cortex-M0+](https://www.mouser.com/ProductDetail/NXP-Freescale/MKL17Z256VFM4/?qs=sGAEpiMZZMsrb0xF%2FYczN2b%252bEswDCxRovw9noGekbwBCU7fbhyrbpg%3D%3D), and an [ARM Cortex-M4](https://www.mouser.com/productdetail/nxp-freescale/mk22fn1m0avlh12?qs=sGAEpiMZZMvu0Nwh4cA1weykV7KKB4hmpEGIIX8z2SGjfkLAT5PTyQ%3D%3D). 
+The POEM Technology Dash/IoTa are Open-Sourced Cellular MCU Developer Boards utilizing the [ublox SARA](https://www.u-blox.com/en/product-search/field_product_form/sara-111) family of modems, [ARM Cortex-M0+](https://www.mouser.com/ProductDetail/NXP-Freescale/MKL17Z256VFM4/?qs=sGAEpiMZZMsrb0xF%2FYczN2b%252bEswDCxRovw9noGekbwBCU7fbhyrbpg%3D%3D), and an [ARM Cortex-M4](https://www.mouser.com/productdetail/nxp-freescale/mk22fn1m0avlh12?qs=sGAEpiMZZMvu0Nwh4cA1weykV7KKB4hmpEGIIX8z2SGjfkLAT5PTyQ%3D%3D). 
 
 Certified by the Open Source Hardware Association - [Certificate US000082](http://certificate.oshwa.org/certification-directory/).
 
