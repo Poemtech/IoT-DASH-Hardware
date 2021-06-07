@@ -3,6 +3,7 @@
 The POEM Technology Dash/IoTa are Open-Sourced Cellular MCU Developer Boards utilizing the [ublox SARA](https://www.u-blox.com/en/product-search/field_product_form/sara-111) family of modems, [ARM Cortex-M0+](https://www.mouser.com/ProductDetail/NXP-Freescale/MKL17Z256VFM4/?qs=sGAEpiMZZMsrb0xF%2FYczN2b%252bEswDCxRovw9noGekbwBCU7fbhyrbpg%3D%3D), and an [ARM Cortex-M4](https://www.mouser.com/productdetail/nxp-freescale/mk22fn1m0avlh12?qs=sGAEpiMZZMvu0Nwh4cA1weykV7KKB4hmpEGIIX8z2SGjfkLAT5PTyQ%3D%3D). 
 
 Certified by the Open Source Hardware Association - [Certificate US000082](http://certificate.oshwa.org/certification-directory/).
+Recertification of the IoTa as a new design is pending.
 
 We're excited to see what you'll build with these designs. If you require support for integrating these designs into your project, you can reach out to Hologram Solutions Engineering at sales@hologram.io to learn about Hologram design review services or hear about our engineering design partners.
 
